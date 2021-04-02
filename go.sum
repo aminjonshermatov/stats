@@ -1,4 +1,2 @@
-github.com/aminjonshermatov/bank v0.0.0-20210402121409-18d629270c75 h1:Ciy23F4WTAXA+0I87hYW7WbajMWbNx1oKUsjAwm3KPE=
-github.com/aminjonshermatov/bank v0.0.0-20210402121409-18d629270c75/go.mod h1:e9EMZzcpA5OyI754s/xQbBtSJeU5abbrQz1fdLEk/mk=
-github.com/aminjonshermatov/bank v0.0.0-20210402122757-b294593a0dd9 h1:7Ryf2+MftH417Tpk4za61oOrNr9NANVgUvJIdojaXrQ=
-github.com/aminjonshermatov/bank v0.0.0-20210402122757-b294593a0dd9/go.mod h1:e9EMZzcpA5OyI754s/xQbBtSJeU5abbrQz1fdLEk/mk=
+github.com/aminjonshermatov/bank/v2 v2.0.0 h1:J/N14wCCR46ABVJ8/QQMzXR9MFYODprb2/PoMozBwv8=
+github.com/aminjonshermatov/bank/v2 v2.0.0/go.mod h1:3J987PrEj9nbOIbXtkEELkoxQChT5PXuCDHB6Aiszaw=
